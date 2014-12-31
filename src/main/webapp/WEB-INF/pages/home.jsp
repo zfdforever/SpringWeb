@@ -21,12 +21,19 @@
 
 <div class="home-header">
 </div>
-<hr class="featurette-divider">
 
 <div class="container marketing">
-    <!-- START THE FEATURETTES -->
+<div class="row featurette ">
+	<div class="col-md-3">
+	<h1>hello</h1>
+	</div>
+	<div class="col-md-9">
+	<h1>every body</h1>
+	</div>
+</div>
+</div>
 
-
+<div class="container marketing">
 
     <div class="row featurette">
         <div class="col-md-7">
