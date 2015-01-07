@@ -23,13 +23,13 @@
 </div>
 
 <div class="container marketing">
-<div class="row featurette ">
-	<div class="col-md-3">
-	<h1>hello</h1>
-	</div>
-	<div class="col-md-9">
-	<h1>every body</h1>
-	</div>
+<div class="row featurette home-navigator">
+    <div class="col-lg-7 home-description">
+        <div class="home-photo">
+            <img src="/img/photo.jpg">
+        </div>
+        <h1>Where flowers bloom</h1>
+    </div>
 </div>
 </div>
 
